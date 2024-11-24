@@ -1,0 +1,14 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.navitems{
+    display: flex;
+    flex-direction: row;
+    gap: 50px; 
+    .hero button{
+        background-color: brown;
+    }
+.hero
+
